@@ -1300,6 +1300,7 @@ name = "onchain-academy"
 version = "0.1.0"
 dependencies = [
  "anchor-lang",
+ "indexmap",
  "mpl-core",
  "spl-token-2022",
 ]
